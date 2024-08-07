@@ -1,0 +1,28 @@
+body{
+    background-image: radial-gradient( seashell,deepskyblue, black);
+    background-color:rgb(20, 125, 196);
+}
+#head{
+    display: flex;
+    justify-content: center;
+}
+.over {
+    display: flex;
+    justify-content: center;
+}
+#result{
+    border-radius: 10px;
+    padding-top: 1%;
+    margin: 2%;
+    /* width: 70vw; */
+    /* display: flex; */
+
+    /* justify-content: center; */
+    background-color: black;
+    font-size: x-large;
+    color: deepskyblue;
+
+}
+.disappear{
+    display: none;
+}
